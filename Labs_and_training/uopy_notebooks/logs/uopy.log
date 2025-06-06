@@ -1,0 +1,88 @@
+2025-05-09 09:05:42,478 : 21724 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-09 09:05:42,484 : 21724 : MainThread : _unirpc : send : 195 ：ERROR : [WinError 10053] An established connection was aborted by the software in your host machine
+2025-05-09 09:05:50,952 : 21724 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-09 09:05:50,952 : 21724 : MainThread : _unirpc : send : 195 ：ERROR : [WinError 10053] An established connection was aborted by the software in your host machine
+2025-05-09 13:57:22,954 : 21724 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-09 14:05:24,136 : 21724 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-09 14:06:17,482 : 21724 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-09 14:06:37,306 : 21724 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-09 14:07:05,336 : 21724 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:35:23,574 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:35:31,270 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:35:39,251 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:36:20,239 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:37:19,513 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:37:33,853 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:40:33,262 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:40:44,918 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:40:57,589 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:41:10,382 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:41:36,800 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:41:48,562 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:44:37,792 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:45:17,856 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:45:25,799 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:45:46,986 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:46:12,458 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:46:20,032 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:49:59,817 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:51:11,911 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:51:11,914 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:51:22,123 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:51:22,126 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:51:27,975 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:51:27,985 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:54:15,337 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:54:15,339 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:54:47,343 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:54:47,346 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:54:58,780 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 07:54:58,783 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 08:37:00,806 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 08:37:35,739 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 08:39:10,028 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 08:39:51,795 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 08:40:42,261 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 08:41:50,452 : 45420 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 12:01:37,004 : 10264 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 12:03:52,039 : 10264 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 12:04:53,711 : 10264 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 12:16:15,764 : 10264 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 12:17:24,715 : 10264 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 12:17:33,378 : 10264 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 12:17:46,639 : 10264 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 12:18:58,638 : 10264 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 12:19:17,804 : 10264 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 12:19:54,036 : 10264 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 12:19:54,391 : 10264 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-29 12:20:41,685 : 10264 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-05-30 06:39:32,187 : 39120 : MainThread : _unirpc : send : 195 ：ERROR : [WinError 10053] An established connection was aborted by the software in your host machine
+2025-05-30 06:40:03,471 : 39120 : MainThread : _pool : _make_a_connection : 46 ：WARNING : Error [80011] : The user name or password provided is incorrect
+2025-05-30 06:40:06,714 : 39120 : MainThread : _pool : _make_a_connection : 46 ：WARNING : Error [80011] : The user name or password provided is incorrect
+2025-05-30 06:40:09,967 : 39120 : MainThread : _pool : _make_a_connection : 46 ：WARNING : Error [80011] : The user name or password provided is incorrect
+2025-05-30 06:40:13,314 : 39120 : MainThread : _pool : _make_a_connection : 46 ：WARNING : Error [80011] : The user name or password provided is incorrect
+2025-05-30 06:40:16,557 : 39120 : MainThread : _pool : _make_a_connection : 46 ：WARNING : Error [80011] : The user name or password provided is incorrect
+2025-05-30 06:40:19,828 : 39120 : MainThread : _pool : _make_a_connection : 46 ：WARNING : Error [80011] : The user name or password provided is incorrect
+2025-05-30 06:40:23,067 : 39120 : MainThread : _pool : _make_a_connection : 46 ：WARNING : Error [80011] : The user name or password provided is incorrect
+2025-05-30 06:40:26,432 : 39120 : MainThread : _pool : _make_a_connection : 46 ：WARNING : Error [80011] : The user name or password provided is incorrect
+2025-05-30 06:40:29,680 : 39120 : MainThread : _pool : _make_a_connection : 46 ：WARNING : Error [80011] : The user name or password provided is incorrect
+2025-05-30 06:40:32,927 : 39120 : MainThread : _pool : _make_a_connection : 46 ：WARNING : Error [80011] : The user name or password provided is incorrect
+2025-05-30 06:40:36,247 : 39120 : MainThread : _pool : _make_a_connection : 46 ：WARNING : Error [80011] : The user name or password provided is incorrect
+2025-05-30 06:40:48,178 : 39120 : MainThread : _pool : _make_a_connection : 46 ：WARNING : Error [80011] : The user name or password provided is incorrect
+2025-05-30 06:40:51,708 : 39120 : MainThread : _pool : _make_a_connection : 46 ：WARNING : Error [80011] : The user name or password provided is incorrect
+2025-05-30 06:40:54,977 : 39120 : MainThread : _pool : _make_a_connection : 46 ：WARNING : Error [80011] : The user name or password provided is incorrect
+2025-06-06 11:32:14,073 : 15056 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-06-06 11:32:14,480 : 15056 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-06-06 11:32:14,490 : 15056 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-06-06 11:32:14,865 : 15056 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-06-06 11:32:14,870 : 15056 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-06-06 11:33:04,978 : 15056 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-06-06 11:33:05,368 : 15056 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-06-06 11:33:38,886 : 15056 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-06-06 11:33:38,899 : 15056 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-06-06 11:33:38,902 : 15056 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-06-06 11:33:39,592 : 15056 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-06-06 11:33:39,594 : 15056 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-06-06 11:38:20,878 : 13704 : MainThread : _session : bind_command : 549 ：WARNING : A session can only have one bound Command object, will replace the old one
+2025-06-06 11:39:50,525 : 15196 : MainThread : _unirpc : make_secure : 239 ：ERROR : [WinError 10053] An established connection was aborted by the software in your host machine
+2025-06-06 11:40:40,864 : 15196 : MainThread : _unirpc : make_secure : 239 ：ERROR : [WinError 10054] An existing connection was forcibly closed by the remote host
